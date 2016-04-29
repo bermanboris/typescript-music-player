@@ -1,2 +1,2 @@
-# **Type**Script Playground
-Basic examples of Typescript with ECMAScript 6 features.
+# **Type**Script Music Player
+Basic examples of Typescript & ECMAScript 6 features.
