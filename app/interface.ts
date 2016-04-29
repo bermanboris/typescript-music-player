@@ -8,16 +8,7 @@ interface ICompanyTester {
 
 // Company class. Nothing more, nothing less.
 class Company implements ICompanyTester {
-
-    phone;
-    name;
-    email;
-
-    constructor ( name: string, phone, email: string ) {
-        this.name = name;
-        this.phone = phone;
-        this.email = email;
-    }
+    constructor ( public name: string, public phone:number, public email: string ) {}
 }
 
 // Prints company data and tests it within ICompanyTester interface

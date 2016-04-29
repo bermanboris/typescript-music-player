@@ -14,4 +14,4 @@ function printCompanyData(company) {
 // Creating new instance of Company class and filling it with correct data.
 var google = new Company("Google", 5551234321, "a@google.com");
 printCompanyData(google);
-//# sourceMappingURL=interface.js.mapjs.map
+//# sourceMappingURL=interface.js.map
